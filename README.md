@@ -8,7 +8,7 @@ Madar Animal Detection Raspberrypi based on motion and color with pan tilt camer
       	PiRGBArray
       	Picamera
       	Numpy
-      	 Imutils
+      	Imutils
       	cv2
       	RPi.GPIO
       	time
