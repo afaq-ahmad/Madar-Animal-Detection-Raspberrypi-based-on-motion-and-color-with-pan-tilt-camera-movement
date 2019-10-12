@@ -155,7 +155,5 @@ Madar Animal Detection Raspberrypi based on motion and color with pan tilt camer
 
 
  
- 
-#### Support:
-Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
+
 
